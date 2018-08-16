@@ -17,9 +17,9 @@ await dApp.start()
 collaboration = await dApp.collaborate('collaboration name', ...)
 
 // inside my render function
-const canvas = document.getElementById('my-canvas')
+const svg = document.getElementById('my-svg')
 
-const vis = NetworkVis(collaboration, canvas)
+const vis = NetworkVis(collaboration, svg)
 
 // later...
 
