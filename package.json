@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/ipfs-shipyard/peer-star-network-vis/issues"
   },
-  "homepage": "https://github.com/ipfs-shipyard/peer-star-network-vis#readme"
+  "homepage": "https://github.com/ipfs-shipyard/peer-star-network-vis#readme",
+  "dependencies": {
+    "d3": "^5.5.0",
+    "peer-star-peer-color": "^0.1.0"
+  }
 }
