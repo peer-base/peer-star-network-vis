@@ -1,0 +1,27 @@
+{
+  "name": "peer-star-network-vis",
+  "version": "0.1.0",
+  "description": "Peer-* collaboration network visualization.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipfs-shipyard/peer-star-network-vis.git"
+  },
+  "keywords": [
+    "ipfs",
+    "peer-*",
+    "peer-star",
+    "collaboration",
+    "network",
+    "visualization"
+  ],
+  "author": "Pedro Teixeira <i@pgte.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ipfs-shipyard/peer-star-network-vis/issues"
+  },
+  "homepage": "https://github.com/ipfs-shipyard/peer-star-network-vis#readme"
+}
