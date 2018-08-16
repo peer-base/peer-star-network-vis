@@ -4,6 +4,8 @@
 
 [![made by Protocol Labs](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](https://protocol.ai)
 
+![Example](docs/example.png)
+
 ## Example
 
 ```js
